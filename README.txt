@@ -1,4 +1,4 @@
-#Project Overview
+# Project Overview
 This project demonstrates a machine learning pipeline for fraud detection using two approaches:
 
 ## Python, Scikit-learn, and Pandas for data augmentation and model training.
